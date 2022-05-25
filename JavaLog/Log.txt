@@ -1,0 +1,66 @@
+mai. 17, 2022 2:23:16 PM Principal main
+INFORMAÇÕES: Log de informação
+mai. 17, 2022 2:23:16 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2022 2:23:16 PM Principal main
+GRAVE: Log Severo
+mai. 17, 2022 2:46:22 PM Principal main
+INFORMAÇÕES: Log de informação
+mai. 17, 2022 2:46:22 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2022 2:46:22 PM Principal main
+GRAVE: Log Severo
+mai. 17, 2022 2:46:36 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2022 2:46:36 PM Principal main
+GRAVE: Log Severo
+mai. 17, 2022 2:47:01 PM Principal main
+INFORMAÇÕES: Log de informação
+mai. 17, 2022 2:47:01 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2022 2:47:01 PM Principal main
+GRAVE: Log Severo
+mai. 17, 2022 2:53:16 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 17, 2022 2:53:16 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:18:08 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:18:08 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:25:02 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:25:02 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:30:10 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:30:10 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:30:46 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:30:46 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:30:56 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:30:56 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:31:23 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:31:23 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:33:02 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:33:02 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:34:09 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:34:09 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:37:00 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:37:01 PM Principal main
+GRAVE: Log Severo
+mai. 24, 2022 7:58:29 PM Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 24, 2022 7:58:37 PM Principal main
+GRAVE: Log Severo
